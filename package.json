@@ -1,8 +1,13 @@
 {
-  "name": "react-hub",
-  "description": "React Front-end Framework for Grid and Re-usable components.",
-  "author": "Anas Tawfeek <anas.tawfeek@itworx.com>",
-  "version": "0.1.0",
-  "main": "index.js",
-  "license": "MIT"
+	"name": "react-hub",
+	"description": "React Front-end Framework for Grid and Re-usable components.",
+	"author": "Anas Tawfeek <anas.tawfeek@itworx.com>",
+	"version": "0.1.0",
+	"main": "index.js",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/AnasTawfeek/react-hub.git"
+	},
+	"bugs": "https://github.com/AnasTawfeek/react-hub/issues"
 }
